@@ -25,7 +25,7 @@
  git clone https://github.com/vaibhavraj-4/Emotion_Detection_System.git
  cd Emotion_Detection_System
  pip install -r requirements.txt
- streamlit run app.py
+ streamlit run test.py
  ```
  ##  Use Cases- Customer service feedback analysis- Real-time emotion detection for virtual assistants- E-learning mood tracking
  ##  Note
